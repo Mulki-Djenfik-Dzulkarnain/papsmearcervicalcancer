@@ -1,0 +1,4 @@
+h-sil
+l-sil
+sel koilocyt
+sel normal
